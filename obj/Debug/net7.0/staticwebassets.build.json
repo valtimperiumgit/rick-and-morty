@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YzA3LFHzrkdwUMMB2QwkY/r+V5/f+6awXoWxkmHlE9I=",
+  "Source": "RickAndMorty.Api",
+  "BasePath": "_content/RickAndMorty.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
